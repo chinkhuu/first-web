@@ -1,0 +1,13 @@
+body
+{
+    background: white;
+    color: black;
+    max-width: 600px;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+p
+{
+    line-height: 1.6rem;
+}
